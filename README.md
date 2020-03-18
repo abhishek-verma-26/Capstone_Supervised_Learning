@@ -16,4 +16,4 @@ Based on the data distribution (among state and claims amounts), a two step mode
 
 The approval classification modelling is based on making accurate classification and minizming type I (false positive) errors. Upon the test shown here, the gradient boosting classifiers overall performs the best with upto 80% accuracy scores.
 
-The regression modelling based on gradient boosting give us the higher accuracy prediction of 68% to 78%. Besides this the linear and random forest modelling all gave us the above 60% prediction results.
+The regression modelling based on gradient boosting give us the higher accuracy prediction of 68% to 78%. Besides this the linear and random forest modelling all gave us above 60% prediction results.
