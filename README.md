@@ -1,5 +1,5 @@
 # Introduction
-This is a Capstone Project of Supervised Machine Learning on the FEMA dataset of flood insurance made since 1978.
+This is a Capstone Project on Supervised Machine Learning on the FEMA dataset of flood insurance made since 1978.
 
 In total more than 2.4 million records are present with 39 columns (739 MB)
 
